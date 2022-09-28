@@ -1,6 +1,8 @@
 # Continual_RL
 Code for my research internship project at OIST. I worked on deep reinforcement learning under the continual learning setting under the supervision of Professor Emtiyaz Khan (RIKEN) and Professor Kenji Doya (OIST).
 
+Link to google slides: https://docs.google.com/presentation/d/1amZkmaa1lSaS1yKStzUns_UvTOqxJO2JNRnG6kZ_hnM/edit?usp=sharing
+
 **Directory** 
 
 1. PID_lunar_lander.ipynb - Notebook for PID agent in the lunar lander environment (no CL) 
