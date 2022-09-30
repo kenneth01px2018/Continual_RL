@@ -18,3 +18,7 @@ Link to google slides: https://docs.google.com/presentation/d/1amZkmaa1lSaS1yKSt
 6. TD3_pendulum_logcosh.ipynb - Notebook for TD3 agent in the pendulum environment (under CL setting) 
 
 7. TD3_pendulum_mt.ipynb - Notebook for TD3 agent in the pendulum environment (under multi-task setting) 
+
+8. TD3_bipedal_walker.ipynb - Notebook for TD3 agent in the bipedal walker environment (under CL setting) 
+
+9. TD3_bipedal_walker_FROMP.ipynb - Notebook for TD3 agent in the bipedal walker environment (under CL setting) with FROMP implemented 
